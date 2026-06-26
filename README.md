@@ -5,7 +5,8 @@
 - 🚀 Currently working on a professional task management app and an e-commerce platform
 - 📚 Learning **TypeScript** and **Fastify** next
 - 💻 Comfortable across the stack — backend-focused, but I also build solid frontends
-- 📫 Reach me at: (add your email or LinkedIn here)
+- 📫 Email: [mortezapouramini2323@gmail.com](mailto:mortezapouramini2323@gmail.com)
+- 💼 LinkedIn: [Morteza Pouramini](https://www.linkedin.com/in/morteza-pouramini-ba0292389)
 
 ---
 
@@ -18,7 +19,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-DD0031?style=flat-square&logo=redis&logoColor=white)
+
 
 **Frontend**
 
